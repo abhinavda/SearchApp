@@ -1,7 +1,7 @@
 # SearchApp
 Retrives Amazon results and sorts them by number of reviews 
 
-![screen shot 2017-06-04 at 1 47 16 pm](https://cloud.githubusercontent.com/assets/27103067/26765061/75a9d1d0-4939-11e7-91e7-9f713c41c841.png)
+<img width="1280" alt="searchapp homepage" src="https://user-images.githubusercontent.com/27103067/34322688-2557ac98-e7f4-11e7-887b-d004e1ee9380.png">
 
 # Intent:
 Twitter exposes an API to consume live stream of tweets in realtime. Tweets and their location can be used to give useful recommendations to both clients and consumers(tweeple).
