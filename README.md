@@ -4,7 +4,7 @@ Retrives Amazon results and sorts them by number of reviews
 <img width="1280" alt="searchapp homepage" src="https://user-images.githubusercontent.com/27103067/34322688-2557ac98-e7f4-11e7-887b-d004e1ee9380.png">
 
 # Intent:
-Twitter exposes an API to consume live stream of tweets in realtime. Tweets and their location can be used to give useful recommendations to both clients and consumers(tweeple).
+I noticed two main things when I searched for any product on Amazon. 1)The search results are filled with multiple sponsored items. 
 
 # Requirements:
 1. Python 2.7
