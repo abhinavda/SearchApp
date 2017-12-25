@@ -4,22 +4,22 @@ Retrives Amazon results and sorts them by number of reviews
 <img width="1280" alt="searchapp homepage" src="https://user-images.githubusercontent.com/27103067/34322688-2557ac98-e7f4-11e7-887b-d004e1ee9380.png">
 
 # Intent:
-I noticed two main things when I searched for any product on Amazon. 1)The search results are filled with multiple sponsored items. 
+Amazon search results contain lot of sponsored items. These would repeat even if we get to next few pages, which is unnecessary. 
+Feedback on any item is very important. This helps us understand if the product is reliable and is worth the money. Amazon.com doesn't have an option to sort the products by number of reviews.
 
 # Requirements:
 1. Python 2.7
-2. Django
-3. HTML/CSS
+2. BeautifulSoup
+3. Django
+4. HTML/CSS
 
-Spark streaming is perfect for getting data from twitter in realtime. It is very efficient and fast in performing operations. This is due it's in-memory computing.
-We can perform analysis with live data or it can be stored in a database to later perform complex breakdown of data.
-Elasticsearch is a perfect fit for this scenario. It is fast, built to scale horizontally, accepts any kind of data. Logstash, an open source, data processing pipeline is used to ingest data, perform intended filtrations before sending that data to Elasticsearch. Data is stored in Elasticsearch in the form of JSON documents. Kibana, part of Elasticsearch stack, can be used to create indexes, visualize data in number of ways. Kibana also comes with tile map service which is used in this application to observe the tweets location.
+Python is easy language to learn and understand. There are also number of webscraping libraries (example:- BeautifulSoup) that can be used by python to extract and intrepret the data from webpages.
+Django is high level python web framework which is used by developers to provide services.
 
 # Results:
-A short demonstration can be seen in the video, it shows origin of tweets in realtime.
-https://github.com/abhinavda/Tweetslocator/blob/master/Tweets%20location.mp4
+A working webapp is hosted on AWS. It can be found on http://bit.ly/2ksZlYc
+
 
 # Use cases:
-This application can be used to give recommendations.
-1. Tweets and their location can be used together. We can identify interests of the consumers, use it to recommend clients in setting up restaurant or a shop, etc in a particular area.
-2. Suggestions can be given to consumers regarding nearby restaurants, events, etc.
+1. It provides only the most reliabe products.
+2. Bestbuy and Walmart search can be added to webapp, making it easy to search for reliable products just from one website.
