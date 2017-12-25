@@ -14,7 +14,8 @@ Feedback on any item is very important. This helps us understand if the product 
 4. HTML/CSS
 
 Python is easy language to learn and understand. There are also number of webscraping libraries (example:- BeautifulSoup) that can be used by python to extract and intrepret the data from webpages.
-Django is high level python web framework which is used by developers to provide services.
+
+Django is high level python web framework which is used by developers to provide services. 
 
 # Results:
 A working webapp is hosted on AWS. It can be found at http://bit.ly/2ksZlYc
