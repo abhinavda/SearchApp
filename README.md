@@ -22,5 +22,5 @@ A working webapp is hosted on AWS. It can be found at http://bit.ly/2ksZlYc
 
 
 # Use cases:
-1. It provides only the most reliabe products.
+1. Displays only reliabe products.
 2. Bestbuy and Walmart search can be added to webapp, making it easy to search for all reliable products just from one website.
