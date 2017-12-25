@@ -17,7 +17,7 @@ Python is easy language to learn and understand. There are also number of webscr
 Django is high level python web framework which is used by developers to provide services.
 
 # Results:
-A working webapp is hosted on AWS. It can be found on http://bit.ly/2ksZlYc
+A working webapp is hosted on AWS. It can be found at http://bit.ly/2ksZlYc
 
 
 # Use cases:
