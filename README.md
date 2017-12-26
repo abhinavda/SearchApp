@@ -1,5 +1,5 @@
 # SearchApp
-Retrives Amazon results and sorts them by number of reviews 
+Gathers Amazon results and sorts them by number of reviews 
 
 <img width="1280" alt="searchapp homepage" src="https://user-images.githubusercontent.com/27103067/34322688-2557ac98-e7f4-11e7-887b-d004e1ee9380.png">
 
